@@ -1,0 +1,13 @@
+C:\Users\nyash\Documents\Visual Studio 2015\Projects\CPA\CPA\bin\Debug\CPA.exe.config
+C:\Users\nyash\Documents\Visual Studio 2015\Projects\CPA\CPA\bin\Debug\CPA.exe
+C:\Users\nyash\Documents\Visual Studio 2015\Projects\CPA\CPA\bin\Debug\CPA.pdb
+C:\Users\nyash\Documents\Visual Studio 2015\Projects\CPA\CPA\bin\Debug\CPA.xml
+C:\Users\nyash\Documents\Visual Studio 2015\Projects\CPA\CPA\obj\Debug\CPA.vbprojResolveAssemblyReference.cache
+C:\Users\nyash\Documents\Visual Studio 2015\Projects\CPA\CPA\obj\Debug\CPA.Form1.resources
+C:\Users\nyash\Documents\Visual Studio 2015\Projects\CPA\CPA\obj\Debug\CPA.Resources.resources
+C:\Users\nyash\Documents\Visual Studio 2015\Projects\CPA\CPA\obj\Debug\CPA.vbproj.GenerateResource.Cache
+C:\Users\nyash\Documents\Visual Studio 2015\Projects\CPA\CPA\obj\Debug\CPA.exe
+C:\Users\nyash\Documents\Visual Studio 2015\Projects\CPA\CPA\obj\Debug\CPA.xml
+C:\Users\nyash\Documents\Visual Studio 2015\Projects\CPA\CPA\obj\Debug\CPA.pdb
+C:\Users\nyash\Documents\Visual Studio 2015\Projects\CPA\CPA\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\nyash\Documents\Visual Studio 2015\Projects\CPA\CPA\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
